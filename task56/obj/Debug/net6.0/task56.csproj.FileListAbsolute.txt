@@ -1,0 +1,15 @@
+/Users/akhmed/mdp/HomeWork8/task56/bin/Debug/net6.0/task56
+/Users/akhmed/mdp/HomeWork8/task56/bin/Debug/net6.0/task56.deps.json
+/Users/akhmed/mdp/HomeWork8/task56/bin/Debug/net6.0/task56.runtimeconfig.json
+/Users/akhmed/mdp/HomeWork8/task56/bin/Debug/net6.0/task56.dll
+/Users/akhmed/mdp/HomeWork8/task56/bin/Debug/net6.0/task56.pdb
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.csproj.AssemblyReference.cache
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.AssemblyInfoInputs.cache
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.AssemblyInfo.cs
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.csproj.CoreCompileInputs.cache
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.dll
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/refint/task56.dll
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.pdb
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/task56.genruntimeconfig.cache
+/Users/akhmed/mdp/HomeWork8/task56/obj/Debug/net6.0/ref/task56.dll
